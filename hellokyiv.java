@@ -4,6 +4,6 @@ public HelloKyiv {
 	}
 	
 	public static void main(String[] args) {
-		sayHello("Hello, Kyiv!!!");
+		sayHello();
 	}
 }
