@@ -1,6 +1,6 @@
 public HelloKyiv {
 	public static void sayHello() {
-		System.out.println("Hello, Kyiv!!!");
+		System.out.println("Hello, Kyiv!");
 	}
 	
 	public static void main(String[] args) {
